@@ -33,25 +33,7 @@ An AI-powered healthcare application that predicts heart disease risk and provid
 
 ---
 
-## 📷 Screenshots
 
-### 🏠 Home Page
-
-![Home Page](screenshots/image 1.png)
-
----
-
-### 📊 Prediction Result
-
-![Prediction Result](screenshots/image 2.png)
-
----
-
-### 💊 Medicine Recommendation
-
-![Medicine Recommendation](screenshots/image 3.png)
-
----
 
 ## ▶️ Run Locally
 
